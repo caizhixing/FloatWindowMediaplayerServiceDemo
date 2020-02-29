@@ -1,0 +1,2 @@
+rootProject.name='FloatWindowDemo'
+include ':app'
